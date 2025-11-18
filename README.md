@@ -1,4 +1,4 @@
-# TutorialsNinja E-Commerce Testing
+# TutorialsNinja E-Commerce Manual Testing
 
 ## 📋 Project Overview
 Testing documentation for TutorialsNinja demo e-commerce web application (`http://tutorialsninja.com/demo/`).
